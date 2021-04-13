@@ -1,2 +1,5 @@
 /.idea/
 /python.iml
+/venv/Include/
+/venv/Lib/
+/venv/Scripts/
