@@ -1,1 +1,1 @@
-python
+Excercise code from the [Python Programming](https://testautomationu.applitools.com/python-tutorial/) course on [TestAutomationU](https://testautomationu.applitools.com/)
